@@ -1,0 +1,15 @@
+{
+  "name": "responsive-social-media-with-theme-customization-main",
+  "version": "1.0.0",
+  "description": "Hello guys, and welcome to another beginner web development project tutorial. Today we're going to create a responsive social media website with theme customization using HTML CSS & JavaScript. We'll use modern CSS features like CSS Variables, CSS Grid, CSS Flexbox and CSS Units like rem, vw and vh to achieve a Responsive Design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "surge": "^0.23.0"
+  }
+}
